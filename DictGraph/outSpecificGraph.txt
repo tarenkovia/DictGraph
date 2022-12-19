@@ -1,0 +1,46 @@
+Abakan
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Barnaul
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Voronezh
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Grozny
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Dubna
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Yelets
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Ivanovo
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Kazan
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Luga
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Magadan
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Norilsk
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Oryol
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Penza
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Ryazan
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Samara
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Tambov
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Ufa
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Khabarovsk
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Chita
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Shuya
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Elista
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Yuzhno-Sakhalinsk
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 
+Yakutsk
+Barnaul 0 Voronezh 0 Grozny 0 Dubna 0 Yelets 0 Ivanovo 0 Kazan 0 Luga 0 Magadan 0 Norilsk 0 Oryol 0 Penza 0 Ryazan 0 Samara 0 Tambov 0 Ufa 0 Khabarovsk 0 Chita 0 Shuya 0 Elista 0 Yuzhno-Sakhalinsk 0 Yakutsk 0 Abakan 0 

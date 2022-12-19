@@ -1,0 +1,14 @@
+Moscow
+Saratov 5
+Saratov
+Perm -2 Vladik 4
+Perm
+Vladik -6 Sochi -3
+Vladik
+Saransk 8
+Saransk
+Sochi 2
+Sochi
+Piter 4
+Piter
+Perm 6

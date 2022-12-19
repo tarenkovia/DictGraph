@@ -1,0 +1,14 @@
+Saratov
+Perm 90 Moscow 60 Saratov 10
+Perm
+Saratov 90 Vladik 80 Sochi 100
+Moscow
+Saratov 60 Piter 50
+Vladik
+Perm 80 Piter 10 Saransk 15
+Sochi
+Perm 100
+Piter
+Moscow 50 Vladik 10
+Saransk
+Vladik 15
